@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.91 199.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc6ac;
+        stroke: #1d1d1b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 7px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #3a3938;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #3a3938;
+      }
+
+      .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="Livello_2-2" data-name="Livello 2">
+    <g id="Livello_2_copia" data-name="Livello 2 copia">
+      <rect class="cls-6" width="199.91" height="199.91"/>
+      <rect class="cls-1" x="5.03" y="4.56" width="189.29" height="189.29"/>
+      <rect class="cls-3" x="15.62" y="53.67" width="22.44" height="135.11"/>
+      <rect class="cls-6" x="45.07" y="161.43" width="9.87" height="9.87"/>
+      <path class="cls-6" d="M190.63,43.56c-18.68.23-35.23,3.51-49.68,9.84-14.44,6.34-24.73,15.27-30.86,26.8v108.58h-48.15V12.69h44.65v38.34c7.88-12.21,18.23-22,31.08-29.35,12.84-7.35,26.41-11.37,40.71-12.05h7.22c1.89,0,3.57.12,5.03.34v33.59Z"/>
+      <path class="cls-2" d="M119.77,153.51v-64.58c5.85-15.9,35.43-32.53,70.86-32.53"/>
+      <path class="cls-2" d="M129.61,136.26v-53.11c4.81-13.07,29.14-26.75,58.27-26.75"/>
+      <path class="cls-6" d="M136.19,120.58v-42.91s.22-.53.22-.53c1.61-2.22,3.43-3.99,5.49-5.6,5.49-4.22,11.72-7.09,18.01-9.62,8.28-3.27,17.22-4.93,26.13-4.85-8.9.11-17.82,1.59-26.13,4.85-7.14,2.85-16.79,9.23-16.94,17.63,0,0,.22-1.21.22-1.21v42.24h-7Z"/>
+      <rect class="cls-4" x="160.31" y="78.52" width="17.77" height="16.88"/>
+      <rect class="cls-5" x="166" y="83.92" width="6.4" height="6.08"/>
+    </g>
+  </g>
+</svg>
